@@ -1,0 +1,26 @@
+{
+  "name": "cordova-plugin-bluetooth",
+  "version": "1.0.0",
+  "description": "Implements cordova-plugin-bluetooth on Android and iOS",
+  "cordova": {
+    "id": "cordova-plugin-bluetooth",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "keywords": [
+    "cordova",
+	  "exit",
+    "terminate",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "hand",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": ""
+}
